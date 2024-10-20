@@ -1,0 +1,119 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Free Rest API</title>
+    <meta property="og:image" content="https://i.pinimg.com/originals/73/df/ac/73dfac0f399961c5258600e3581325cf.jpg">
+<link rel="shortcut icon" href="https://i.pinimg.com/originals/73/df/ac/73dfac0f399961c5258600e3581325cf.jpg"/>  
+    <style>* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Ubuntu, sans-serif
+}
+
+html {
+    background: url("https://i.pinimg.com/originals/73/df/ac/73dfac0f399961c5258600e3581325cf.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
+}
+
+body {
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+    min-height: 100vh;
+}
+h1 {
+color: white; 
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black; 
+}
+        .download-container {
+            margin: 20px auto;
+            padding: 20px;
+            border: 2px dashed #fc68f3;
+            border-radius: 10px;
+            background-color: rgba(0, 0, 0, 0.5); /* Tambahin transparansi biar teks lebih jelas */
+            box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+        }
+        .download-btn {
+            display: inline-block;
+            padding: 15px 25px;
+            margin: 10px;
+            background-color: #fc68f3;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .download-btn:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <h1>FREE REST API</h1>
+   <div class="download-container">
+        <a style="color: white; 
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black;">RANDOM</a>
+        <a href="/api/paptt" class="download-btn">RANDOM PAP TT</a>
+        <a href="/api/hentai" class="download-btn">RANDOM HENTAI</a>
+        </div>
+        <div class="download-container">
+        <a style="color: white; 
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black;">SEARCH</a>
+        <a href="/api/xnxxsearch?q=milf" class="download-btn">XNXX SEARCH</a>
+        <a href="/api/hentaisearch?q=yae+miko" class="download-btn">HENTAI SEARCH</a>
+        <a href="/api/xvideosearch?q=milf" class="download-btn">XVIDEO SEARCH</a>
+        </div>
+        <div class="download-container">
+        <a style="color: white; 
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black;">DOWNLOADER</a>
+        <a href="/api/xdownload?url=https://www.xnxx.com/video-1bq5gh5e/18yo_guy_gets_banged_by_multiple_milfs" class="download-btn">XVIDEO & XNXX</a>
+        </div>
+        <div class="download-container" style="text-align: center; margin-top: 20px;">
+    <a href="https://wa.me/6287715768324" style="font-size: 12px; color: white; text-decoration: none; background-color: rgba(252, 104, 243, 0.9); padding: 5px 10px; border-radius: 5px;">Wa Atmin 🗿</a>
+    <a href="/vpn" style="font-size: 12px; color: white; text-decoration: none; background-color: rgba(252, 104, 243, 0.9); padding: 5px 10px; border-radius: 5px;">Free VPN RW</a>
+</div>
+    <div>
+    <a style="color: white; 
+    text-shadow: 
+        -1px -1px 0 black,  
+        1px -1px 0 black,
+        -1px 1px 0 black,
+        1px 1px 0 black; ">FITUR EROR REPORT ATMIN</a>
+    </div>
+</body>
+    <script>
+      swal({
+        title: 'Welcome To Rest Api Simple',
+        text: 'Masih belajar om',
+        imageUrl: 'https://raw.githubusercontent.com/alfamanz/alfamanz.github.io/refs/heads/main/files/b9dc0d8113222b7e00bd6d19214b09a6.jpg',
+        imageWidth: 200,
+        imageHeight: 200,
+        imageAlt: 'Danu',
+        animation: true
+      })
+    </script>
+    </script>
+</html>
