@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "axios": "^1.7.7",
+    "path": "@latest",
     "cheerio": "^1.0.0",
     "express": "^4.21.1",
     "fs": "^0.0.1-security"
